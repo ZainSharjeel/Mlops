@@ -1,0 +1,10 @@
+ruff
+black
+pytest
+pip-tools
+requests
+pre-commit
+fastapi
+httpx
+python-multipart
+python-dotenv
